@@ -1,0 +1,14 @@
+[package]
+name = "cfg-gen"
+version = "0.1.0"
+authors = ["wiasliaw <leewei48750@gmail.com>"]
+edition = "2018"
+include = [
+	"src/**/*",
+	"Cargo.toml",
+	"README.md"
+]
+
+[dependencies]
+clap = "3.0.0-beta.2"
+rust-embed = "5.9.0"

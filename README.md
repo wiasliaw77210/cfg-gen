@@ -1,1 +1,1 @@
-# cfggen
+# cfg-gen
